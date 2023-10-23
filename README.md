@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdellah Amraoui</h1>
-<h3 align="center">IT Administrator</h3>
+<h3 align="center">Junior Cybersecurity Analyst | Network Administrator | Software Developer</h3>
 
-- 🌱 I’m currently learning **DevOps and cloud solution architect**
+- 🌱 I’m currently learning **Cybersecurity **
 
-- 📫 How to reach me **abdellahamraoui07@gmail.com**
+- 📫 How to reach me **amraoui.abdellah@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
