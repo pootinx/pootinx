@@ -13,31 +13,32 @@
 <a href="https://linkedin.com/in/pootinx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pootinx" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">My badges</h3>
+<h3 align="left">My badges :</h3>
 
 <div style="display: flex; max-width: 800px; margin: 5px auto;">
-    <a href="https://www.credly.com/badge/198cd851-768a-44f7-a9b9-7fbaa931710b" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.credly.com/badges/198cd851-768a-44f7-a9b9-7fbaa931710b/public_url" target="_blank" rel="noopener noreferrer">
         <img src="https://images.credly.com/images/20082fc1-94af-4773-9df0-28856b566748/image.png" alt="Badge 1" width="100" height="100" style="margin-right: 5px;">
     </a>
-    <a href="https://www.credly.com/badge/1165ef6a-9f23-41db-8dff-1a585f0d0877" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.credly.com/badges/1165ef6a-9f23-41db-8dff-1a585f0d0877/public_url" target="_blank" rel="noopener noreferrer">
         <img src="https://images.credly.com/images/4b6db74c-f2da-4958-ad21-27288f2dd7f3/image.png" alt="Badge 2" width="100" height="100" style="margin-right: 5px;">
     </a>
-    <a href="https://www.credly.com/size/340x340/badge/441578ec-c0f3-46cc-95fc-86b27e90cf4f" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.credly.com/badges/fc207dd5-8ffa-4f79-a8ed-b63e943a5f27/public_url" target="_blank" rel="noopener noreferrer">
         <img src="https://images.credly.com/size/340x340/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" alt="Badge 3" width="100" height="100" style="margin-right: 5px;">
     </a>
-    <a href="https://www.credly.com/size/340x340/badge/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.credly.com/badges/ce3beb41-ed08-4a8c-b509-7f80b5b1838b/public_url" target="_blank" rel="noopener noreferrer">
         <img src="https://images.credly.com/size/340x340/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" alt="Badge 4" width="100" height="100" style="margin-right: 5px;">
     </a>
-    <a href="https://www.credly.com/size/340x340/badge/88316fe8-5651-4e61-a6be-5be1558f049e" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.credly.com/badges/011dd66d-43e8-4e78-98ab-bbaefdd1e99d/public_url" target="_blank" rel="noopener noreferrer">
         <img src="https://images.credly.com/size/340x340/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png" alt="Badge 5" width="100" height="100" style="margin-right: 5px;">
     </a>
-    <a href="https://www.credly.com/size/340x340/badge/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.credly.com/badges/577c8542-d22b-4f49-88bf-c845b147dc98/public_url" target="_blank" rel="noopener noreferrer">
         <img src="https://images.credly.com/size/340x340/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png" alt="Badge 6" width="100" height="100" style="margin-right: 5px;">
     </a>
-    <a href="https://www.credly.com/size/340x340/badge/7fa91a10-3cbe-48fb-bd0e-c3e4cf27065f" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.credly.com/badges/047e81f0-e012-44a9-9e3d-963d8335e6e7/public_url" target="_blank" rel="noopener noreferrer">
         <img src="https://images.credly.com/size/340x340/images/7fa91a10-3cbe-48fb-bd0e-c3e4cf27065f/image.png" alt="Badge 7" width="100" height="100">
     </a>
 </div>
+
 
 
 
