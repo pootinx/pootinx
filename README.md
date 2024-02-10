@@ -13,7 +13,9 @@
 <a href="https://linkedin.com/in/pootinx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pootinx" height="30" width="40" /></a>
 </p>
 
-<div style="display: flex; max-width: 800px; margin: 0 auto;">
+<h3 align="left">My badges</h3>
+
+<div style="display: flex; max-width: 800px; margin: 5px auto;">
     <img src="https://images.credly.com/images/20082fc1-94af-4773-9df0-28856b566748/image.png" alt="Badge 1" width="150" height="150">
     <img src="https://images.credly.com/images/4b6db74c-f2da-4958-ad21-27288f2dd7f3/image.png" alt="Badge 2" width="150" height="150">
     <img src="https://images.credly.com/size/340x340/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" alt="Badge 3" width="150" height="150">
