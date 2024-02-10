@@ -14,27 +14,27 @@
 </p>
 
 <div style="display: flex; justify-content: space-between; max-width: 800px; margin: 0 auto;">
-    <div>
-        <img src="BADGE_1_IMAGE" alt="Badge 1" width="150" height="270">
-    </div>
-    <div>
-        <img src="BADGE_2_IMAGE" alt="Badge 2" width="150" height="270">
-    </div>
-    <div>
-        <img src="BADGE_3_IMAGE" alt="Badge 3" width="150" height="270">
-    </div>
-    <div>
-        <img src="BADGE_4_IMAGE" alt="Badge 4" width="150" height="270">
-    </div>
-    <div>
-        <img src="BADGE_5_IMAGE" alt="Badge 5" width="150" height="270">
-    </div>
-    <div>
-        <img src="BADGE_6_IMAGE" alt="Badge 6" width="150" height="270">
-    </div>
-    <div>
-        <img src="BADGE_7_IMAGE" alt="Badge 7" width="150" height="270">
-    </div>
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="198cd851-768a-44f7-a9b9-7fbaa931710b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1165ef6a-9f23-41db-8dff-1a585f0d0877" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fc207dd5-8ffa-4f79-a8ed-b63e943a5f27" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ce3beb41-ed08-4a8c-b509-7f80b5b1838b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="011dd66d-43e8-4e78-98ab-bbaefdd1e99d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="577c8542-d22b-4f49-88bf-c845b147dc98" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="047e81f0-e012-44a9-9e3d-963d8335e6e7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
