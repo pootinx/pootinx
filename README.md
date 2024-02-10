@@ -13,16 +13,29 @@
 <a href="https://linkedin.com/in/pootinx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pootinx" height="30" width="40" /></a>
 </p>
 
-<p align="left">
-<!-- Add your Credly badges here -->
-[![Badge 1](https://www.credly.com/badge/198cd851-768a-44f7-a9b9-7fbaa931710b)](https://www.credly.com/badge/198cd851-768a-44f7-a9b9-7fbaa931710b)
-[![Badge 2](https://www.credly.com/badge/1165ef6a-9f23-41db-8dff-1a585f0d0877)](https://www.credly.com/badge/1165ef6a-9f23-41db-8dff-1a585f0d0877)
-[![Badge 3](https://www.credly.com/badge/fc207dd5-8ffa-4f79-a8ed-b63e943a5f27)](https://www.credly.com/badge/fc207dd5-8ffa-4f79-a8ed-b63e943a5f27)
-[![Badge 4](https://www.credly.com/badge/ce3beb41-ed08-4a8c-b509-7f80b5b1838b)](https://www.credly.com/badge/ce3beb41-ed08-4a8c-b509-7f80b5b1838b)
-[![Badge 5](https://www.credly.com/badge/011dd66d-43e8-4e78-98ab-bbaefdd1e99d)](https://www.credly.com/badge/011dd66d-43e8-4e78-98ab-bbaefdd1e99d)
-[![Badge 6](https://www.credly.com/badge/577c8542-d22b-4f49-88bf-c845b147dc98)](https://www.credly.com/badge/577c8542-d22b-4f49-88bf-c845b147dc98)
-[![Badge 7](https://www.credly.com/badge/047e81f0-e012-44a9-9e3d-963d8335e6e7)](https://www.credly.com/badge/047e81f0-e012-44a9-9e3d-963d8335e6e7)
-</p>
+<div style="display: flex; justify-content: space-between; max-width: 800px; margin: 0 auto;">
+    <div>
+        <img src="BADGE_1_IMAGE" alt="Badge 1" width="150" height="270">
+    </div>
+    <div>
+        <img src="BADGE_2_IMAGE" alt="Badge 2" width="150" height="270">
+    </div>
+    <div>
+        <img src="BADGE_3_IMAGE" alt="Badge 3" width="150" height="270">
+    </div>
+    <div>
+        <img src="BADGE_4_IMAGE" alt="Badge 4" width="150" height="270">
+    </div>
+    <div>
+        <img src="BADGE_5_IMAGE" alt="Badge 5" width="150" height="270">
+    </div>
+    <div>
+        <img src="BADGE_6_IMAGE" alt="Badge 6" width="150" height="270">
+    </div>
+    <div>
+        <img src="BADGE_7_IMAGE" alt="Badge 7" width="150" height="270">
+    </div>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
